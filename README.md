@@ -11,7 +11,7 @@ A semantic anime recommendation engine using TF-IDF vectors and cosine similarit
 ## How The Model Works (Beginner-Friendly)
 Instead of user ratings, this project uses the anime descriptions directly.
 
-We build **TF-IDF vectors** from every title + synopsis, then measure cosine
+I build **TF-IDF vectors** from every title + synopsis, then measure cosine
 similarity to find shows with the same vibe. That powers two modes:
 - Search mode: type a theme or title and get the most relevant matches
 - Similarity mode: pick an anime and get near neighbors instantly
