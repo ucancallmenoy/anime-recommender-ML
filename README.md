@@ -1,6 +1,6 @@
 # Anime Recommender
 
-A portfolio-ready, clean-architecture anime discovery system using Python, FastAPI, and React.
+A semantic anime recommendation engine using TF-IDF vectors and cosine similarity to discover shows based on plot descriptions and themes.
 
 ## What This Project Does
 - Trains a semantic search model offline from `data/anime.csv`
