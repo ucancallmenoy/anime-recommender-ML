@@ -1,0 +1,31 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;600;700&family=Sora:wght@400;600;700&display=swap");
+
+:root {
+  --font-body: "Sora";
+  --font-display: "M PLUS Rounded 1c";
+  --bg: #fbf7f2;
+  --bg-2: #fff0f4;
+  --surface: #ffffff;
+  --surface-2: #f3ecff;
+  --text: #1f1a2b;
+  --muted: #6c6687;
+  --accent: #ff5b7c;
+  --accent-2: #4db9ff;
+  --accent-soft: rgba(255, 91, 124, 0.25);
+  --accent-2-soft: rgba(77, 185, 255, 0.2);
+  --border: rgba(31, 26, 43, 0.08);
+}
+
+.dark {
+  --bg: #0c0b14;
+  --bg-2: #1a1228;
+  --surface: #13101f;
+  --surface-2: #1c1830;
+  --text: #f5efff;
+  --muted: #b6b0d5;
+  --accent: #ff7aa6;
+  --accent-2: #7cd7ff;
+  --accent-soft: rgba(255, 122, 166, 0.22);
+  --accent-2-soft: rgba(124, 215, 255, 0.18);
+  --border: rgba(255, 255, 255, 0.08);
+}
